@@ -1,0 +1,3 @@
+/home/wren/Data/02-Devprojects/01-C/playground/00-HeadFirstC/HFC-00-CardCounting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wren/Data/02-Devprojects/01-C/playground/00-HeadFirstC/HFC-00-CardCounting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wren/Data/02-Devprojects/01-C/playground/00-HeadFirstC/HFC-00-CardCounting/cmake-build-debug/CMakeFiles/HFC_00_CardCounting.dir
